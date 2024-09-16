@@ -1,0 +1,10 @@
+Real Time Chat
+_______________
+1.multi thread udp server
+2.user class -> client
+3.chat room class -> server
+
+Functionality
+_____________
+1.client create user 
+2.client can create chat room(server)
